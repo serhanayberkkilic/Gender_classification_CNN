@@ -1,5 +1,5 @@
 # Gender_classification_CNN
-#linkedin: https://www.linkedin.com/in/serhanayberkkilic/
+LinkedIn: https://www.linkedin.com/in/serhanayberkkilic/
 
 
 Dataset= https://www.kaggle.com/cashutosh/gender-classification-dataset
